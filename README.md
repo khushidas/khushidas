@@ -1,44 +1,74 @@
-<!--
-**shahil04/shahil04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Khushi Das
 
-Here are some ideas to get you started:
+📍 Kalkaji, New Delhi  
+📧 [khushidas0706@gmail.com](mailto:khushidas0706@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/khushi-das-b65055360/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1 align="center">Hi 👋, I'm Md Shahil</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://blog.digitalskola.com/wp-content/uploads/2023/11/tools-data-science-1536x1024.jpg">
+## 🌟 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahil04&label=Profile%20views&color=0e75b6&style=flat" alt="shahil04" /> </p>
+I’m a motivated and detail-oriented **Data Science and Analytics** student passionate about transforming data into actionable insights. I enjoy exploring datasets, building visual dashboards, and deriving patterns that drive informed business decisions. Currently, I’m pursuing a **Master’s in Data Science & Analytics with Artificial Intelligence** and looking for opportunities to apply my skills in real-world data-driven environments.
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+---
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision**
+## 🧠 Skills
 
-- 🤝 I’m looking for help with **Data Science**
+**Languages:** Python, SQL  
+**Tools:** Excel, MySQL, Power BI, Tableau  
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup, Requests  
 
-- 👨‍💻 All of my projects are available at [https://github.com/shahil04](https://github.com/shahil04?tab=repositories)
+---
 
-- 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS**
+## 💼 Projects
 
-- 📫 How to reach me **mohammadshahil4u@gmail.com**
+### 📊 E-Commerce Sales Analysis Dashboard (Excel)
+- Created a dynamic Excel dashboard to visualize key sales metrics and customer behavior.  
+- Used pivot tables and charts to highlight trends in product performance and regional sales.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-shahil-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-shahil-ai" height="30" width="40" /></a>
-</p>
+### 🍕 Pizza Sales Analysis (SQL)
+- Analyzed pizza sales trends over time and identified top-selling products.  
+- Conducted customer segmentation and purchasing behavior analysis.  
+- Implemented real-time data synchronization for up-to-date metrics.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 🌦️ Weather Forecast Analysis (Power BI)
+- Used Weather API data to analyze temperature, humidity, wind speed, and UV index across multiple cities.  
+- Built interactive visuals with custom icons and DAX-based dynamic filtering.  
+- Enabled quick comparisons for short-term weather insights.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahil04&show_icons=true&locale=en&layout=compact" alt="shahil04" /></p>
+### 🍔 Swiggy Performance Dashboard (Power BI)
+- Designed a dashboard analyzing Swiggy’s performance across users, cities, and food categories using 1.5L+ records (2017–2020).  
+- Performed data cleaning and modeling in Power Query; implemented KPIs and slicers.  
+- Delivered actionable insights on customer behavior and sales trends to support business decisions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahil04&show_icons=true&locale=en" alt="shahil04" /></p>
+---
+
+## 🎓 Education
+
+**Bachelor of Arts (Economics Major)** – University of Delhi (2022–2025)
+
+---
+
+## 📜 Certifications
+
+- **Master in Data Science & Analytics with AI** – ITVedant, Delhi (2025–Present)  
+- **Deloitte Australia Data Analytics Job Simulation** – Forage (July 2025)  
+- **Data Analysis with Python** – IBM (Oct 2025)  
+- **Python for Data Science** – IBM (Oct 2025)
+
+---
+
+## 🚀 Career Goals
+
+To build a strong foundation in **data analytics and visualization**, contribute to impactful projects in the IT and business analytics sectors, and grow into a data-driven decision-maker.
+
+---
+
+## 🧩 Portfolio Links
+
+- [Certificates Drive Folder](https://drive.google.com/drive/u/0/folders/1kKt7J8bhbMswZoU-CApUGlnA6PF-zKO9)
+- [Deloitte Forage Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_vqPCS9ngjsoGqdD4y_1752053052064_completion_certificate.pdf)
+
+---
+
+⭐ *"Turning raw data into clear insights that tell a story."*
