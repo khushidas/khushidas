@@ -66,8 +66,9 @@ To build a strong foundation in **data analytics and visualization**, contribute
 
 ## 🧩 Portfolio Links
 
-- [Certificates Drive Folder](https://drive.google.com/drive/u/0/folders/1kKt7J8bhbMswZoU-CApUGlnA6PF-zKO9)
+- [projects Drive Folder](https://drive.google.com/drive/u/0/folders/1kKt7J8bhbMswZoU-CApUGlnA6PF-zKO9)
 - [Deloitte Forage Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_vqPCS9ngjsoGqdD4y_1752053052064_completion_certificate.pdf)
+- [IBM Certificates](https://drive.google.com/drive/u/0/folders/1UcSMRR5zWGE2Ng_OnNzBfTb0r5ucpDYv)
 
 ---
 
